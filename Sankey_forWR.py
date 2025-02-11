@@ -34,6 +34,6 @@ fig = go.Figure(data=[go.Parcats(dimensions=[dim1, dim2, dim3],
 
 fig.update_layout(width=2500, height=1800, margin=dict(l=520, r=200, t=50, b=50))
 fig.update_layout(font=dict(family="Times New Roman Bold, serif"))
-fig.write_image("./stanley_forWR.pdf")
+fig.write_image("./Sankey_diagram_DWDS.pdf")
 fig.show()
 
