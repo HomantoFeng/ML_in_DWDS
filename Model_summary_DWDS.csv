@@ -1,120 +1,120 @@
-"Topics","Subtopics","Model name used in original studies","Classified-Models used in Fig2","Models","Ref"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Predicting water production and demand","GA-ANN and ML-ANN ","ANN-based","NN-based","Zhang 2019"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Predicting water production and demand","GRUN","DNN-based","NN-based","Guo 2018"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Predicting water production and demand","ANN","ANN-based","NN-based","Guo 2018"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Predicting water production and demand","SARIMA","Statistical model","Statistical","Guo 2018"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Predicting water production and demand","DAN2, FTDNN","NN-based","NN-based","Ghiassi 2017"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Predicting water production and demand","KNN","KNN","KNN","Ghiassi 2017"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","FL-DenseNet ","DNN-based","NN-based","Zhou 2019"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","AdvaML","ANN-based","NN-based","Almheiri 2021"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","Cox-pH","Regression-based","Regression-based","Almheiri 2021"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","SRF","RF","RF","Almheiri 2021"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","SSVM","SVM","SVM","Almheiri 2021"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","RF","RF","RF","Park 2020"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","XGB","XGB","XGB","Park 2020"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","RR","RR","Regression-based","Bagriacik 2018"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","LR","LR","LR","Bagriacik 2018"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","BRT","BRT","BDT","Bagriacik 2018"
-"Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective","Monitoring pipeline integrity<br>in engineered water system","RF","RF","RF","Bagriacik 2018"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","ANN","ANN","NN-based","Singh and Gupta 2012"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","SVM","SVM","SVM","Singh and Gupta 2012"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","GEP","GEP","GEP","Singh and Gupta 2012"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","Linear/Log Linear ","Regression-based","Regression-based","Lin 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","RBF-ANN ","ANN-based ","NN-based","Lin 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","Linear/Log Linear ","Regression-based","Regression-based","Hong 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","RBF-ANN","ANN-based ","NN-based","Hong 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","Linear/Log Linear","Regression-based","Regression-based","Deng 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","BP-ANN,RBF-ANN","ANN-based ","NN-based","Deng 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","DTB","DT-based","DT","Pan 2023"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLR","Regression-based","Regression-based","Hu 2023"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","NN ","NN-based","NN-based","Hu 2023"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","RF ","RF","RF","Hu 2023"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","SVR","SVR-based","SVR","Hu 2023"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","GPR","GPR","Regression-based","Hu 2023"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","AE-NN, AE","AE-based","NN-based","Peleato 2018"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","PCA, PARAFAC ","PCA-based","PCA-based","Peleato 2018"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLP","NN-based","NN-based","Peleato 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","CNN","CNN","CNN-based","Peleato 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","PARAFAC-MLP","PCA-based","PCA-based","Peleato 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","PCA-MLP","NN-based","NN-based","Peleato 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","3-way PLS ","Regression-based","Regression-based","Peleato 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","SVR-(linear, polynomial, RBF, or sigmoid)","SVR-based","SVR","Hossien 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLR","Regression-based","Regression-based","Bond and Graham 2017"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","RF","RF","RF","Cordero 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","SVR-RBF,SVR-linear","SVR-based","SVR","Cordero 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLP","NN-based","NN-based","Cordero 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLR","Regression-based","Regression-based","Cordero 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLR ","Regression-based","Regression-based","Legube 2004"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","ANN","ANN-based","NN-based","Legube 2004"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","RF","RF","RF","Cha 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLR ","Regression-based","Regression-based","Shi 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","SVM","SVM","SVM","Shi 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","DT-based","DT-based","DT","Shi 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","RF","RF","RF","Shi 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","DNN","DNN","NN-based","Shi 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","DTB, SDT","DT-based","DT","Gupta and Basant 2016"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","MLR","Regression-based","Regression-based","Park 2015"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Optimizing the disinfection process ","ANN, PC-ANN","ANN-based","NN-based","Park 2015"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Nitrification surveillance","NB","Bayesian-based","Bayesian-based","Gomez-Alvarez 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Nitrification surveillance","SVR","SVR","SVR","Hossain 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","SVR","SVR","SVR","Oh 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","MLGI (NN-PSO+EBK)","NN-based","NN-based","De Jesus 2021"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","Kriging interpolation","Kriging interpolation","Statistical","Tian 2020"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","LightGBM","LightGBM","BDT","Abdi and Mazloom, 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","XGB","XGB","BDT","Abdi and Mazloom, 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","GBDT ","DT-based","DT","Abdi and Mazloom, 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","RF","RF","RF","Abdi and Mazloom, 2022"
-"Machine learning to monitor and ensure<br>chemical drinking water quality","Heavy metal monitoring regulation ","MLP-ANN, RBF-ANN ","ANN-based","NN-based","Hamidian 2019"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Opportunistic pathogen<br>surveillance and mitigation ","NARA ","NN-based","NN-based","Sincak 2014"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Opportunistic pathogen<br>surveillance and mitigation ","K-means","K-means","K-means","Moodley and Haar 2019"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Opportunistic pathogen<br>surveillance and mitigation ","SaTScan","Statistical model","Statistical","Brunello 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Opportunistic pathogen<br>surveillance and mitigation ","XGB","XGB","BDT","Brunello 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Opportunistic pathogen<br>surveillance and mitigation ","LR","LR","LR","Brunello 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Opportunistic pathogen<br>surveillance and mitigation ","SVM ","SVM","SVM","Brunello 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","Bayesian-based","Bayesian-based","Bayesian-based","Ritter 2003"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","Bayesian-based","Bayesian-based","Bayesian-based","Greenberg 2010"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","Bayesian-based","Bayesian-based","Bayesian-based","Knights 2011"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","RF","RF","RF","Smith 2010"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","XGB","XGB","BDT","Wu 2020"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","KNN","KNN","KNN","Wu 2020"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","NB","Bayesian-based","Bayesian-based","Wu 2020"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","SVM","SVM","SVM","Wu 2020"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","NN ","NN-based","NN-based","Wu 2020"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","RF","RF","RF","Wu 2020"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","Alpha and Beta diversity analyses ","Alpha and Beta diversity analyses","Statistical","Pinto 2014"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","UniFrac","UniFrac","Statistical","Lozupone 2011"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","UniFrac","UniFrac","Statistical","Bruno 2019"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","UniFrac","UniFrac","Statistical","Ling 2018"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Microbial community analysis ","UniFrac","UniFrac","Statistical","Li 2017"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Parasite detection","CNN","CNN-based","CNN-based","Xu 2019"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Parasite detection","CNN","CNN-based","CNN-based","Luo 2021"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Parasite detection","LDFA","Statistical model","Statistical","Ligda 2021"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Biofilm development assessment ","RT","RT","Regression-based","Ramos-Mart�nez 2016"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Biofilm development assessment ","RF","RF","RF","Ramos-Mart�nez 2016"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Biofilm development assessment ","StarDist OPP","CNN-based","CNN-based","Jelli 2023"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Risk analysis and source tracking<br>of antimicrobial resistance ","LR","LR","LR","Wu 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Risk analysis and source tracking<br>of antimicrobial resistance ","DT","DT","DT","Wu 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Risk analysis and source tracking<br>of antimicrobial resistance ","RF","RF","RF","Wu 2022"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Risk analysis and source tracking<br>of antimicrobial resistance ","Bayesian-based","Bayesian-based","Bayesian-based","Chen 2019"
-"Machine learning to monitor and ensure<br>microbiological drinking water quality","Risk analysis and source tracking<br>of antimicrobial resistance ","Bayesian-based","Bayesian-based","Bayesian-based","Wang 2023"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LR","LR","LR","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LDA","LDA","LDA","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","SVM","SVM","SVM","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","ANN","ANN","NN-based","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","DNN","DNN","NN-based","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","RNN ","RNN ","RNN ","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LSTM","LSTM","LSTM","Muharemi 2019"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LSTM","LSTM","LSTM","Fehst 2018"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LR","LR","LR","Qian 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","RF","RF","RF","Qian 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","XGB","XGB","BDT","Qian 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","xgbDART","xgbDART","BDT","Qian 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LSTM","LSTM","LSTM","Qian 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","LSTM","LSTM","LSTM","Rodriguez-Perez 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","ARIMA","Statistical model","Statistical","Rodriguez-Perez 2020"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","Stacking-based","Stacking-based","Stacking-based","Li 2022"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","ANN","ANN","NN-based","Li 2022"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","GAN-based","GAN-based","GAN-based","Li 2023"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","MVE","Statistical model","Statistical","Li 2023"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","SVM","SVM","SVM","Oliker and Ostfeld 2014"
-"Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning","Anomalies and contamination<br>events detection","SVM","SVM","SVM","Asheri Arnon 2019"
+Topics,Subtopics,Model name used in original studies,Classified-Models used in Fig,Models,Ref
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Predicting water production and demand,GA-ANN and ML-ANN ,ANN-based,NN-based,Zhang 2019
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Predicting water production and demand,GRUN,DNN-based,NN-based,Guo 2018
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Predicting water production and demand,ANN,ANN-based,NN-based,Guo 2018
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Predicting water production and demand,SARIMA,Statistical model,Statistical,Guo 2018
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Predicting water production and demand,"DAN2, FTDNN",NN-based,NN-based,Ghiassi 2017
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Predicting water production and demand,KNN,KNN,KNN,Ghiassi 2017
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,FL-DenseNet ,DNN-based,NN-based,Zhou 2019
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,AdvaML,ANN-based,NN-based,Almheiri 2021
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,Cox-pH,Regression-based,Regression-based,Almheiri 2021
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,SRF,RF,RF,Almheiri 2021
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,SSVM,SVM,SVM,Almheiri 2021
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,RF,RF,RF,Park 2020
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,XGB,XGB,XGB,Park 2020
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,RR,RR,Regression-based,Bagriacik 2018
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,LR,LR,LR,Bagriacik 2018
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,BRT,BRT,BDT,Bagriacik 2018
+Machine learning to ensure safe<br>drinking water supply:<br>The physical perspective,Monitoring pipeline integrity<br>in engineered water system,RF,RF,RF,Bagriacik 2018
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,ANN,ANN,NN-based,Singh and Gupta 2012
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,SVM,SVM,SVM,Singh and Gupta 2012
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,GEP,GEP,GEP,Singh and Gupta 2012
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,Linear/Log Linear ,Regression-based,Regression-based,Lin 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,RBF-ANN ,ANN-based ,NN-based,Lin 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,Linear/Log Linear ,Regression-based,Regression-based,Hong 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,RBF-ANN,ANN-based ,NN-based,Hong 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,Linear/Log Linear,Regression-based,Regression-based,Deng 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"BP-ANN,RBF-ANN",ANN-based ,NN-based,Deng 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,DTB,DT-based,DT,Pan 2023
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLR,Regression-based,Regression-based,Hu 2023
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,NN ,NN-based,NN-based,Hu 2023
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,RF ,RF,RF,Hu 2023
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,SVR,SVR-based,SVR,Hu 2023
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,GPR,GPR,Regression-based,Hu 2023
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"AE-NN, AE",AE-based,NN-based,Peleato 2018
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"PCA, PARAFAC ",PCA-based,PCA-based,Peleato 2018
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLP,NN-based,NN-based,Peleato 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,CNN,CNN,CNN-based,Peleato 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,PARAFAC-MLP,PCA-based,PCA-based,Peleato 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,PCA-MLP,NN-based,NN-based,Peleato 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,3-way PLS ,Regression-based,Regression-based,Peleato 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"SVR-(linear, polynomial, RBF, or sigmoid)",SVR-based,SVR,Hossien 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLR,Regression-based,Regression-based,Bond and Graham 2017
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,RF,RF,RF,Cordero 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"SVR-RBF,SVR-linear",SVR-based,SVR,Cordero 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLP,NN-based,NN-based,Cordero 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLR,Regression-based,Regression-based,Cordero 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLR ,Regression-based,Regression-based,Legube 2004
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,ANN,ANN-based,NN-based,Legube 2004
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,RF,RF,RF,Cha 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLR ,Regression-based,Regression-based,Shi 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,SVM,SVM,SVM,Shi 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,DT-based,DT-based,DT,Shi 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,RF,RF,RF,Shi 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,DNN,DNN,NN-based,Shi 2022
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"DTB, SDT",DT-based,DT,Gupta and Basant 2016
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,MLR,Regression-based,Regression-based,Park 2015
+Machine learning to monitor and ensure<br>chemical drinking water quality,Optimizing the disinfection process ,"ANN, PC-ANN",ANN-based,NN-based,Park 2015
+Machine learning to monitor and ensure<br>chemical drinking water quality,Nitrification surveillance,NB,Bayesian-based,Bayesian-based,Gomez-Alvarez 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Nitrification surveillance,SVR,SVR,SVR,Hossain 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,SVR,SVR,SVR,Oh 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,MLGI (NN-PSO+EBK),NN-based,NN-based,De Jesus 2021
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,Kriging interpolation,Kriging interpolation,Statistical,Tian 2020
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,LightGBM,LightGBM,BDT,"Abdi and Mazloom, 2022"
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,XGB,XGB,BDT,"Abdi and Mazloom, 2022"
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,GBDT ,DT-based,DT,"Abdi and Mazloom, 2022"
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,RF,RF,RF,"Abdi and Mazloom, 2022"
+Machine learning to monitor and ensure<br>chemical drinking water quality,Heavy metal monitoring regulation ,"MLP-ANN, RBF-ANN ",ANN-based,NN-based,Hamidian 2019
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Opportunistic pathogen<br>surveillance and mitigation ,NARA ,NN-based,NN-based,Sincak 2014
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Opportunistic pathogen<br>surveillance and mitigation ,K-means,K-means,K-means,Moodley and Haar 2019
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Opportunistic pathogen<br>surveillance and mitigation ,SaTScan,Statistical model,Statistical,Brunello 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Opportunistic pathogen<br>surveillance and mitigation ,XGB,XGB,BDT,Brunello 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Opportunistic pathogen<br>surveillance and mitigation ,LR,LR,LR,Brunello 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Opportunistic pathogen<br>surveillance and mitigation ,SVM ,SVM,SVM,Brunello 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,Bayesian-based,Bayesian-based,Bayesian-based,Ritter 2003
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,Bayesian-based,Bayesian-based,Bayesian-based,Greenberg 2010
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,Bayesian-based,Bayesian-based,Bayesian-based,Knights 2011
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,RF,RF,RF,Smith 2010
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,XGB,XGB,BDT,Wu 2020
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,KNN,KNN,KNN,Wu 2020
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,NB,Bayesian-based,Bayesian-based,Wu 2020
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,SVM,SVM,SVM,Wu 2020
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,NN ,NN-based,NN-based,Wu 2020
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,RF,RF,RF,Wu 2020
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,Alpha and Beta diversity analyses ,Alpha and Beta diversity analyses,Statistical,Pinto 2014
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,UniFrac,UniFrac,Statistical,Lozupone 2011
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,UniFrac,UniFrac,Statistical,Bruno 2019
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,UniFrac,UniFrac,Statistical,Ling 2018
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Microbial community analysis ,UniFrac,UniFrac,Statistical,Li 2017
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Parasite detection,CNN,CNN-based,CNN-based,Xu 2019
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Parasite detection,CNN,CNN-based,CNN-based,Luo 2021
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Parasite detection,LDFA,Statistical model,Statistical,Ligda 2021
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Biofilm development assessment ,RT,RT,Regression-based,Ramos-Mart�nez 2016
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Biofilm development assessment ,RF,RF,RF,Ramos-Mart�nez 2016
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Biofilm development assessment ,StarDist OPP,CNN-based,CNN-based,Jelli 2023
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Risk analysis and source tracking<br>of antimicrobial resistance ,LR,LR,LR,Wu 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Risk analysis and source tracking<br>of antimicrobial resistance ,DT,DT,DT,Wu 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Risk analysis and source tracking<br>of antimicrobial resistance ,RF,RF,RF,Wu 2022
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Risk analysis and source tracking<br>of antimicrobial resistance ,Bayesian-based,Bayesian-based,Bayesian-based,Chen 2019
+Machine learning to monitor and ensure<br>microbiological drinking water quality,Risk analysis and source tracking<br>of antimicrobial resistance ,Bayesian-based,Bayesian-based,Bayesian-based,Wang 2023
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LR,LR,LR,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LDA,LDA,LDA,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,SVM,SVM,SVM,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,ANN,ANN,NN-based,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,DNN,DNN,NN-based,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,RNN ,RNN ,RNN ,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LSTM,LSTM,LSTM,Muharemi 2019
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LSTM,LSTM,LSTM,Fehst 2018
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LR,LR,LR,Qian 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,RF,RF,RF,Qian 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,XGB,XGB,BDT,Qian 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,xgbDART,xgbDART,BDT,Qian 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LSTM,LSTM,LSTM,Qian 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,LSTM,LSTM,LSTM,Rodriguez-Perez 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,ARIMA,Statistical model,Statistical,Rodriguez-Perez 2020
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,Stacking-based,Stacking-based,Stacking-based,Li 2022
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,ANN,ANN,NN-based,Li 2022
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,GAN-based,GAN-based,GAN-based,Li 2023
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,MVE,Statistical model,Statistical,Li 2023
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,SVM,SVM,SVM,Oliker and Ostfeld 2014
+Assessing safe drinking water supply<br>from the temporal perspective<br>with machine learning,Anomalies and contamination<br>events detection,SVM,SVM,SVM,Asheri Arnon 2019
